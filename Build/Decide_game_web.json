@@ -1,0 +1,13 @@
+{
+"companyName": "Mads Riddersholm | Sound design",
+"productName": "Decide",
+"dataUrl": "Decide_game_web.data.unityweb",
+"asmCodeUrl": "Decide_game_web.asm.code.unityweb",
+"asmMemoryUrl": "Decide_game_web.asm.memory.unityweb",
+"asmFrameworkUrl": "Decide_game_web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
